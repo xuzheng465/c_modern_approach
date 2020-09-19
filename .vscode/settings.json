@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.hdl": "verilog",
+        "*.pl": "prolog",
+        "typeinfo": "cpp",
+        "iostream": "cpp"
+    }
+}
