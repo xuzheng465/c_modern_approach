@@ -1,8 +1,14 @@
 {
-    "files.associations": {
-        "*.hdl": "verilog",
-        "*.pl": "prolog",
-        "typeinfo": "cpp",
-        "iostream": "cpp"
+  "files.associations": {
+    "*.hdl": "verilog",
+    "*.pl": "prolog",
+    "typeinfo": "cpp",
+    "iostream": "cpp"
+  },
+  "workbench.action.configureLanguageBasedSettings": {
+    "[python]": {
+      "editor.tabSize": 4
     }
+  },
+  "editor.detectIndentation": true
 }
